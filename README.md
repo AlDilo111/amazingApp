@@ -36,4 +36,15 @@
     3.state hook
     4.effect hook
     5. reduceer hook
-    
+9. Manage state by producer hook
+    1. define redducer
+    2. update feth data
+    3. get state from usreducer
+10. Add bootstrap UI framework
+    1. npm install react-bootstrap botstrap
+    2. updatee App.js
+11. Create product rating component
+    1. reate rating component
+    2. create product component
+    3. Use ratting omponennt in product component
+12.
