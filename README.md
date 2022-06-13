@@ -1,1 +1,39 @@
 # amazingApp
+
+# AMAZING
+
+# LESSONS
+
+1. Intro
+2. Install tools
+3. Create app
+4. Create repo
+5. List Products
+    1. create array
+    2. add product images
+    3. render products
+    4. Style products
+6. Add Routing
+    1. npm i react-router-dom
+    2. create router for home screen
+    3. create router for product screen
+7. Create Node server
+    1. npm init root
+    2. update package json to module
+    3. add .js to imports
+    4. npm i express 
+    5. create server.js
+    6. add start command as node backend/server.js
+    7. require express
+    8. create rute for / return backend is ready
+    9. move products.js from front end to back end
+    10. create route for api/products
+    11. return products
+    12. run npm start
+8.Fetch products from backend
+    1. set proxy in package.json
+    2. npm install axiios
+    3.state hook
+    4.effect hook
+    5. reduceer hook
+    
