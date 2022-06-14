@@ -50,4 +50,8 @@
 12. Create product details
     1. fetch product from backend
     2. create 3 olumns for image, info, and action
-    
+13. Createe loading and message component
+    1. create loading component
+    2. use spinner
+    3. create message component
+    4. create utils.js to define getError function
