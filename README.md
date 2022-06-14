@@ -47,4 +47,7 @@
     1. reate rating component
     2. create product component
     3. Use ratting omponennt in product component
-12.
+12. Create product details
+    1. fetch product from backend
+    2. create 3 olumns for image, info, and action
+    
