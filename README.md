@@ -93,4 +93,8 @@
     1. habdle submit action
     2. save token n store and local storage
     3. show username in header
-24.
+24. Create Shipping Screen 
+    1. creeate form inputs
+    2. handle saveeshipping address
+    3. add checkout wizard bar
+25. Create Sign up Screen 
