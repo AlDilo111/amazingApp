@@ -55,3 +55,42 @@
     2. use spinner
     3. create message component
     4. create utils.js to define getError function
+14. add to cart
+    1. create react context
+    2. define reduer
+    3. create store provider
+    4. implement add to cart button
+15. Commplete add to cart
+    1. check existing items in cart
+    2. check count in stock in backend
+16. Create Cart Screen
+    1. create 2 columns
+    2. display items list
+    3. create action column
+17. Complete Cart Screen
+    1. click handler increase & decrease 
+    2. click handler for removing an item
+    3. click handler for checkout
+18. Create sign in
+    1. create sign in form
+    2. add email 7 password
+    3. add sign in button
+19. Connect to mongodb
+20. Seed sample data
+    1. create product model
+    2. create user model
+    3. create seeed route
+    4. use router in server.js
+    5. seed sample product
+21. Add user data
+    1. create user route
+    2. create user model
+22. Create Signin Backend AP
+    1. create signin api
+    2. npm install jsonweb token
+    3. define generateToken
+23. Complete sign in screen
+    1. habdle submit action
+    2. save token n store and local storage
+    3. show username in header
+24.
