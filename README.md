@@ -98,3 +98,17 @@
     2. handle saveeshipping address
     3. add checkout wizard bar
 25. Create Sign up Screen 
+    1. create input forms
+    2. handle submit
+    3. backend api
+26. payment method
+    1. crate input form
+    2. handle submit
+27. Create placeholder screen
+    1. show cart items, paymetn & address
+    2. handle place order action
+    3. creeatee order crate api
+28. implleement place prder action
+    1. handle placee order actiom
+    2. creeate oordeerr create api
+29. 
