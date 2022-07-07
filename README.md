@@ -104,11 +104,10 @@
 26. payment method
     1. crate input form
     2. handle submit
-27. Create placeholder screen
+27. Create placeorder screen
     1. show cart items, paymetn & address
     2. handle place order action
     3. creeatee order crate api
-28. implleement place prder action
+8. implement place prder action
     1. handle placee order actiom
-    2. creeate oordeerr create api
-29. 
+    2. create ordeer create api
